@@ -1,0 +1,29 @@
+# Unity tarafından otomatik oluşturulan klasörler
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+
+# Visual Studio dosyaları
+.vs/
+*.csproj
+*.sln
+*.user
+*.unityproj
+
+# MacOS dosyaları
+.DS_Store
+
+# Diğer
+*.pidb
+*.booproj
+*.svd
+
+# Paket yöneticisi tarafından oluşturulan dosyalar
+Packages/packages-lock.json
+
+# Crash ve hata dosyaları
+sysinfo.txt
